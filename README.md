@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Vindyani</h1>
-<h3 align="center">A passionate frontend developer from srilanka</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vindyani123&label=Profile%20views&color=0e75b6&style=flat" alt="vindyani123" /> </p>
 
