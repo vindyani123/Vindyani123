@@ -1,4 +1,14 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vindyani</h1>
+<h3 align="center">A passionate frontend developer from srilanka</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vindyani123&label=Profile%20views&color=0e75b6&style=flat" alt="vindyani123" /> </p>
+
+- 📫 How to reach me **Vindyanijayasinghe6824@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **vindyani123/Vindyani123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
